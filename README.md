@@ -2,6 +2,7 @@
 **Course Information**: CS359 Computer Architecture, for SJTU CS
 This is the second project:  Understanding Cache Memories
 
+# Part A
 ## complie
 ```makefile
 make clean
@@ -15,3 +16,5 @@ make
 ./csim-ref -s 2 -E 2 -b 2 -t traces/yi2.trace
 ## run evaluation
  ./test-csim
+
+# Part B
